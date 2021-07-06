@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Holidu](https://www.holidu.de) app — search engine for vacation rentals, based in Munich.
 - Swift is preffered language for me at the moment.
-- Trying to experiment on old and new stuff in computer world.
+- Trying to experiment on old and new stuff in computer world, like writing game engine, swift backend or replicating SwiftUI by wrapping UIStackView into declarative layout system (https://github.com/akbashev/KindaDeclarativeUI).
 - Make some photos from time to time, even been choosed to be printed in Unsplash book. More info—https://unsplash.com/@jaleel_akbash
