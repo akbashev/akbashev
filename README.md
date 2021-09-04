@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-<p>My name is Jaleel and welcome to my blog. Born and raised near Ural mountains, then lived in Moscow where I've received degree in Moscow State Technical University. Before moving to Munich, I've worked as mobile software developer in several companies and made apps from scratch for different business purposes.
+<p>My name is Jaleel and welcome to my github page. Born and raised near Ural mountains, then lived in Moscow where I've received degree in Moscow State Technical University. Before moving to Munich, I've worked as mobile software developer in several companies and made apps from scratch for different business purposes.
 </p>
 <p>Last 5 years I'm working with Apple platforms, frameworks (like HealthKit and CoreML) and using Swift language both for frontend and backend needs. Recently moved to Munich to enjoy Bavarian landscapes and way of life.
 </br> 
