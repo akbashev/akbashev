@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 <p>A bit more thoughts:
 </p>
+
 - 🔭 I’m currently working on the [Holidu](https://www.holidu.de) app — a search engine for vacation rentals, based in Munich.
 - Swift is the preferred language for me at the moment.
 - Trying to experiment with old and new stuff in the computer world, like writing a game engine, Swift backend, or replicating SwiftUI by wrapping UIStackView into a declarative layout system [KDUI](https://github.com/akbashev/KindaDeclarativeUI).
