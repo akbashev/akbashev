@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on the [Holidu](https://www.holidu.de) app — a search engine for vacation rentals, based in Munich.
 - Swift is the preferred language for me at the moment.
 - Trying to experiment with old and new stuff in the computer world, like writing a game engine, Swift backend, or replicating SwiftUI by wrapping UIStackView into a declarative layout system [KDUI](https://github.com/akbashev/KindaDeclarativeUI).
-- Making some photos from time to time, even being chosen to be printed in the Unsplash book. More info—[Usplash](https://unsplash.com/@jaleel_akbash)
+- Making some photos from time to time, even being chosen to be printed in the Unsplash book. More info—[Unsplash](https://unsplash.com/@jaleel_akbash)
 - Love football. Dream to own my football club one day. 😅 Mostly for experiments and ideas around football, tactics and players performance.
